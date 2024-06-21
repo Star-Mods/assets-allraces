@@ -1,2 +1,2 @@
-﻿DocInfo/DescLong=Assets for SC Evolution Complete Mod
+﻿DocInfo/DescLong=Assets for SC Evolution Complete Mod<n/>
 DocInfo/Name=[AR2] BroodWar Assets
