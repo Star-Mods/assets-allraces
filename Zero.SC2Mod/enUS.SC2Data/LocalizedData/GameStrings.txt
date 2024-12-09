@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Asset mod for Zero Custom Races.
+DocInfo/Name=Zero Custom Races (Art Mod)
+DocInfo/Website=https://discord.gg/rfPG2y62A3
